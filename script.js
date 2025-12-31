@@ -20,6 +20,7 @@ const friendsData = [
     { name: "Chuckwu", message: "Stay blessed and good" },
     { name: "Khalid", message: "More success" },
     { name: "Breezy", message: "Be the face of 2026!" },
+    { name: "Jaworski", message: "More success this year" },
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
