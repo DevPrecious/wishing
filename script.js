@@ -17,7 +17,9 @@ const friendsData = [
     { name: "ShoeChef", message: "Step into greatness!" },
     { name: "Dunchala", message: "Cheers to the New Year!" },
     { name: "Armani", message: "Style and grace!" },
-    { name: "Awise", message: "To new heights in 2026!" }
+    { name: "Chuckwu", message: "Stay blessed and good" },
+    { name: "Khalid", message: "More success" },
+    { name: "Breezy", message: "Be the face of 2026!" },
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
