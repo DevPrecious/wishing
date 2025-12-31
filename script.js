@@ -16,7 +16,8 @@ const friendsData = [
     { name: "Elisha", message: "Blessings on blessings!" },
     { name: "ShoeChef", message: "Step into greatness!" },
     { name: "Dunchala", message: "Cheers to the New Year!" },
-    { name: "Armani", message: "Style and grace!" }
+    { name: "Armani", message: "Style and grace!" },
+    { name: "Awise", message: "To new heights in 2026!" }
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
